@@ -1,0 +1,14 @@
+body{
+    font-size: 40px;
+    background-color: rgb(245, 197, 223);
+}
+li{
+    font-size: 30px;
+}
+ul{
+    font-size: 20px;
+    background-color: rgb(245, 197, 223);
+}
+.bucket{
+    font-size: 40px;
+}
